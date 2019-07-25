@@ -1,0 +1,5 @@
+rootProject.name = 'spring-boot-multi-package-demo'
+
+include 'demo-core-jarA'
+include 'demo-core-jarB'
+include 'demo-package-war'
